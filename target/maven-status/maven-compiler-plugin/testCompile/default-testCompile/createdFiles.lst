@@ -1,0 +1,6 @@
+starter\stepdefinitions\ParameterDefinitions.class
+starter\CucumberTestSuite.class
+starter\tasks\NavigateTo.class
+starter\tasks\AddAnItem.class
+starter\stepdefinitions\AddItemStepDefinitions.class
+starter\helpers\TodoListPage.class
