@@ -4,7 +4,7 @@ import net.serenitybdd.annotations.DefaultUrl;
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 
-@DefaultUrl("https://todomvc.com/examples/angularjs/#/")
+@DefaultUrl("https://todomvc.com/examples/angular/dist/browser/#/all")
 public class TodoListPage extends PageObject {
 
 
